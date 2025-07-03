@@ -31,5 +31,6 @@ Some of my work is open source and available [here on Github](https://github.com
 
 ### Stellar Outlaw
 This was a hobby project from 2019, loosely inspired by the classic 1997 LucasArts shooter, Outlaws.
-![bad image of stellar outlaw](https://github.com/user-attachments/assets/712088c4-981c-4348-8c74-4fe157e0ec23)
+![bad image of stellar outlaw](https://github.com/user-attachments/assets/712088c4-981c-4348-8c74-4fe157e0ec23)![image of stellar outlaw commit log](https://github.com/user-attachments/assets/ba1b6fec-5679-43fb-94c8-45c0b6d961de)
+
 
